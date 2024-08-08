@@ -3,7 +3,6 @@
 # by Le 202408~
 #
 import sys, getopt, os
-import pandas as pd
 import time
 import gc
 
